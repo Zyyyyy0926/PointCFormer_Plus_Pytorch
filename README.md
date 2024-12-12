@@ -5,7 +5,7 @@ This is the code repository for PointCFormer, this work was accepted to do on AA
 ## 🔥News
 
 - **The code is currently under further research and development. It will be open-sourced in the near future. Stay tuned for updates!**
-- **2023-9-2** **PointCFormer** accepted by AAAI2025.
+- **2024-12-9** **PointCFormer** accepted by AAAI2025.
 
 
 
